@@ -12,3 +12,12 @@ export type Blog = {
 export type BlogResponse = {
   data: Blog[];
 };
+
+export type CreateBlogData = {
+  title: string;
+  slug: string;
+  author: string;
+  cover_link: string;
+  tags: string[];
+  content: string;
+};
