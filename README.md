@@ -1,4 +1,4 @@
-# TanStack Query + Zustand Learning Project
+# Learn TanStack Query
 
 A hands-on learning project built to master state management with Zustand and server state with TanStack Query.
 
@@ -46,3 +46,4 @@ A hands-on learning project built to master state management with Zustand and se
 - Server state ≠ Client state
 - Performance matters (useShallow, proper selectors)
 - Environment variables for secrets (never commit tokens!)
+
